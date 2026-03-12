@@ -78,9 +78,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=SplaueefE&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Splaueef&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Splaueef&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
