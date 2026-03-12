@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:C1121F,100:111111&text=Splauuef%20%7C%20RotKranz&fontColor=ffffff&fontSize=34&fontAlignY=32&desc=Telegram%20bots%20%E2%80%A2%20Linux/VPS%20%E2%80%A2%20Python%20backend&descAlignY=52&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:C1121F,100:111111&text=Splaueef%20%7C%20RotKranz&fontColor=ffffff&fontSize=34&fontAlignY=32&desc=Telegram%20bots%20%E2%80%A2%20Linux/VPS%20%E2%80%A2%20Python%20backend&descAlignY=52&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C1121F&center=true&vCenter=true&width=900&lines=Building+RotKranz+ecosystem;Developing+Telegram+bots+with+Python;Working+with+VPS%2C+Linux%2C+databases+and+automation;Creating+systems%2C+not+just+projects" alt="Typing SVG" />
 
