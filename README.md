@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 Моя статистика GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВІЙ_НІК&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Splaueef&show_icons=true&theme=radical)
 
 ### ⚡ Про мене:
 - 🔭 Зараз я налаштовую свій власноруч зібраний юзербот Hikka.
