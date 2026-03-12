@@ -1,16 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:C1121F,100:111111&section=header&text=Stanislav%20%7C%20RotKranz&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:C1121F,100:111111&text=Splauuef%20%7C%20RotKranz&fontColor=ffffff&fontSize=34&fontAlignY=32&desc=Telegram%20bots%20%E2%80%A2%20Linux/VPS%20%E2%80%A2%20Python%20backend&descAlignY=52&animation=fadeIn" />
 
-### Telegram bots • Linux/VPS • Python backend • RotKranz ecosystem
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C1121F&center=true&vCenter=true&width=900&lines=Building+RotKranz+ecosystem;Developing+Telegram+bots+with+Python;Working+with+VPS%2C+Linux%2C+databases+and+automation;Creating+systems%2C+not+just+projects" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=C1121F&center=true&vCenter=true&width=900&lines=Building+RotKranz+ecosystem;Developing+Telegram+bots+with+Python;Working+with+VPS%2C+Linux%2C+databases+and+automation;Creating+game+systems%2C+web+tools+and+community+projects;Turning+ideas+into+working+systems" alt="Typing SVG" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=Splauuef&style=for-the-badge&color=red)
-![](https://img.shields.io/github/followers/Splauuef?style=for-the-badge&color=111111&labelColor=C1121F)
-![](https://img.shields.io/github/stars/Splauuef?style=for-the-badge&color=111111&labelColor=C1121F)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Splaueef&style=for-the-badge&color=red" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Splaueef?style=for-the-badge&color=111111&labelColor=C1121F" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Splaueef?style=for-the-badge&color=111111&labelColor=C1121F" alt="Stars" />
+</p>
 
 </div>
 
@@ -18,18 +16,17 @@
 
 ## 👁 Про мене
 
-Привіт. Я **Станіслав**, розробник Telegram-проєктів, ботів та систем під брендом **RotKranz**.
+Привіт. Я **Станіслав** (**Splauuef**), розробник власних Telegram-проєктів та систем під брендом **RotKranz**.
 
-Працюю з:
-- Telegram bots / userbots
-- Python backend
-- Linux / VPS / Debian
-- Flask / web integration
+Я працюю над:
+- Telegram-ботами на Python
+- ігровими механіками та автоматизацією
+- VPS / Linux серверами
+- Flask / backend частиною сайтів
 - SQLite / PostgreSQL
-- GitHub / deploy / automation
-- game logic / community systems
+- GitHub-проєктами та деплоєм
 
-Мені цікаво не просто писати код, а будувати **цілісну екосистему**: бот, сайт, mini app, економіку, статистику, внутрішні механіки та розвиток спільноти.
+Мені подобається будувати не просто код, а **цілу екосистему**: бот, сайт, mini app, економіка, статистика, ігрові системи та спільнота навколо цього.
 
 ---
 
@@ -50,7 +47,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=009639)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 ### Додатково
 ![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)
@@ -64,63 +61,11 @@
 
 ## 🚀 Зараз я займаюсь
 
-- Розробкою Telegram-ботів та userbot-проєктів
+- Розробкою Telegram-ботів та юзерботів
 - Побудовою власної екосистеми **RotKranz**
-- Ігровими системами для **Werewolf / RPG / community bots**
+- Ігровими системами для Werewolf / RPG / community-ботів
 - Налаштуванням серверів, баз даних і деплою
 - Поліпшенням архітектури своїх проєктів
-
----
-
-## 📊 GitHub статистика
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Splauuef&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Splauuef&theme=radical&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splauuef&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Досягнення
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Splauuef&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 Активність
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Splauuef&theme=redical&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🧠 Мої проєкти
-
-### RotKranz
-Мій власний напрямок, де я поєдную:
-- Telegram-ботів
-- ігрові механіки
-- економіку та статистику
-- веб-частину
-- автоматизацію
-- розвиток спільноти
-
-### Werewolf Bot
-Соціально-ігровий Telegram-бот з ролями, фазами, голосуваннями, внутрішніми системами, економікою та майбутніми розширеннями.
-
-### Mini Apps / Web
-Експерименти з сайтами, Telegram Mini Apps, профілями, інтеграціями та ігровими сторінками.
 
 ---
 
@@ -130,36 +75,79 @@
 - Backend development
 - Linux / VPS administration
 - GitHub workflow
-- Bot architecture
-- Game systems & logic
+- Game systems & bot logic
 - Web integration
 - Databases & storage architecture
 
 ---
 
-<details>
-<summary><b>💬 Про що мене можна питати</b></summary>
-<br>
+## 🏆 GitHub досягнення
 
-- Python bots
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Splaueef&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+## 📊 GitHub статистика
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Splaueef&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Splaueef&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splaueef&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Активність
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Splaueef&theme=redical&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🧠 Мої проєкти
+
+### RotKranz
+Мій власний напрямок, де я об’єдную:
+- Telegram-ботів
+- ігрові механіки
+- економіку та статистику
+- веб-частину
+- автоматизацію та розвиток спільноти
+
+### Werewolf Bot
+Соціально-ігровий Telegram-бот з ролями, логікою фаз, системами голосувань, економікою та майбутніми розширеннями.
+
+### Mini Apps / Web
+Експерименти з сайтами, Telegram Mini Apps, профілями, ігровими сторінками та інтеграціями.
+
+---
+
+## 💬 Про що мене можна питати
+
+- Python боти
 - Telegram automation
 - Aiogram
 - Linux / Debian / VPS
 - SQLite / PostgreSQL
-- GitHub / deploy / structure
-- Архітектура ботів
-- Game logic / social systems
+- GitHub / деплой / структура проєкту
+- Архітектура ботів та ігрова логіка
 
-</details>
+---
 
-<details>
-<summary><b>🌑 Філософія</b></summary>
-<br>
+## 🌑 Філософія
 
 > Я люблю створювати системи, які виглядають стильно, працюють стабільно  
 > і з часом перетворюються у щось більше, ніж просто “ще один бот”.
-
-</details>
 
 ---
 
@@ -167,8 +155,8 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Huang__Baike-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Huang_Baike)
-[![GitHub](https://img.shields.io/badge/GitHub-Splauuef-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Splauuef)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Huang_Baike)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Splaueef)
 
 </div>
 
@@ -178,6 +166,6 @@
 
 ### ⚡ RotKranz • Build. Refine. Evolve.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:111111,100:C1121F&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:C1121F,100:111111" />
 
 </div>
