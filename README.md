@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SplaueefE&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=Splaueef&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Splaueef&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Splaueef&layout=compact&theme=radical&hide_border=true)
 
