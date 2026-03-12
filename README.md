@@ -3,7 +3,7 @@
 
 # Stanislav | RotKranz
 
-### Telegram bots • Linux/VPS • Python backend • Dark fantasy dev vibe
+### Telegram bots • Linux/VPS • Python backend
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C1121F&center=true&vCenter=true&width=700&lines=Building+RotKranz+ecosystem;Developing+Telegram+bots+with+Python;Working+with+VPS%2C+Linux%2C+databases+and+automation;Turning+ideas+into+working+systems" alt="Typing SVG" />
 
